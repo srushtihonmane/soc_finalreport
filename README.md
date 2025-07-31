@@ -3,7 +3,6 @@
 ## Project Title: Introduction to AI / ML  
 **Student:** Srushti Honmane  
 **Program:** Summer of Code (SOC 2025)  
-**Duration:** Week 1 to Week 8  
 **Mentors:** Rahul Kumar, Harshavardhan Thorat  
 
 ---
